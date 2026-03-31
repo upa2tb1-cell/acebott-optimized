@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Optimized Acebott non-blocking library",
   "dependencies": {
-    "core": "*"
+    "core": "*",
+    "acebott": "github:ACEBOTTteam/Acebott"
   },
   "files": [
     "acebott_optimized.ts"
