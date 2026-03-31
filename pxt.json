@@ -1,12 +1,12 @@
 {
-  "name": "acebott-optimized",
+  "name": "aceopt",
   "version": "1.0.0",
-  "description": "Optimized Acebott non-blocking library",
+  "description": "Optimized Acebott Library (Lightweight & Non-blocking)",
   "dependencies": {
     "core": "*",
     "acebott": "github:ACEBOTTteam/Acebott"
   },
   "files": [
-    "acebott_optimized.ts"
+    "aceopt.ts"
   ]
 }
