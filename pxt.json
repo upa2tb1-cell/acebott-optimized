@@ -1,0 +1,11 @@
+{
+  "name": "acebott-optimized",
+  "version": "1.0.0",
+  "description": "Optimized Acebott non-blocking library",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "acebott_optimized.ts"
+  ]
+}
